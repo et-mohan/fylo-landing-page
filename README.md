@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # fylo-landing-page
 frontend design 
 =======
@@ -115,3 +116,6 @@ This is where you can give a hat tip to anyone who helped you out on this projec
 
 **Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
 >>>>>>> master
+=======
+
+>>>>>>> 71df8f1b4a81807340cac3663d81c7984d71c60a
