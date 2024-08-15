@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # fylo-landing-page
 frontend design 
 =======
