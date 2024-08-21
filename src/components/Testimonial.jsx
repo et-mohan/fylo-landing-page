@@ -77,8 +77,8 @@ export default function Testmonial(){
             </div>            
         </div>
         
-        <div class=" realtive flex justify-center bg-gray-cap ">
-            <div class="h-48 w-1/2 bg-gray-800 rounded-md flex flex-col justify-center items-center text-white shadow-md absolute">
+        <div class="  flex justify-center bg-gray-cap  ">
+            <div class="h-48 w-1/2 bg-gray-700 rounded-md flex flex-col justify-center items-center text-white shadow-md relative inset-y-20">
                 <div class="text-3xl font-bold">Get early access today</div>
                 <div class="text-xs pt-4">It only takes a minute to sign up and our free starter is extremely generous. if you have any </div>
                 <div class="text-xs pb-5">questions, our support team would be happy to help  you</div>
