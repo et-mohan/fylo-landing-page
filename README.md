@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](screenshot/fylo-landing-page-t5ml.onrender.com.jpeg)
 
 ### Links
 
